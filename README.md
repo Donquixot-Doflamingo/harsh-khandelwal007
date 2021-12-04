@@ -2,7 +2,7 @@
 - 👀 I’m interested in devloping some good SWIFT softwares.
 - 🌱 I’m currently learning SWIFT, JAVA .
 - 💞️ I’m looking to collaborate on SWFIT RELATED STUFF.
-- 📫 How to reach my Inbox 007harshkhandelwal@gmailcom
+- 📫 How to reach my Inbox 007harshkhandelwal@gmail.com
 
 <!---
 harsh-khandelwal007/harsh-khandelwal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
